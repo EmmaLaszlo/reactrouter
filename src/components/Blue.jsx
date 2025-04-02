@@ -1,4 +1,8 @@
 export default function Blue() {
-    return <h1 className="blue">Blue</h1>
+    return (
+      <div className="blue">
+        <h1>BLUE</h1>
+      </div>
+    );
   }
   
